@@ -1,28 +1,76 @@
-# 💫 About Me:
-🔭 I’m currently working on designing, training and deploying large-scale language models (LLMs) and vision-language models (VLMs), leveraging my deep background in statistics and data-science to create robust multimodal AI systems.<br><br>👯 I’m looking to collaborate on projects involving recommendation systems, customer segmentation, churn-prediction models, as well as research- or production-scale work in multimodal machine learning — particularly where statistical rigor and scalable infrastructure meet.<br><br>🤝 I’m looking for help with scaling model-training pipelines, MLOps / monitoring workflows, collecting and cleaning multimodal datasets, or contributing to open-source benchmarks for novel architectures.<br><br>🌱 I’m currently learning advanced deep-learning frameworks, model interpretability techniques, and best practices for deploying ML in production environments — while exploring efficient ways to combine statistical inference with modern ML practices.<br><br>💬 Ask me about building data-science pipelines from scratch, statistical inference in big data contexts, designing recommendation systems, navigating a data-science career across countries, or combining traditional statistics with cutting-edge AI.<br><br>⚡ Fun fact: I hold the highest GPA ever recorded in my department, won gold and two silver medals in national statistics competitions — once solving a contest problem under pressure faster than almost everyone else.
+<h1 align="center">Hi, I'm Hamid Jahani 👋</h1>
+<h3 align="center">Data Scientist & Machine Learning Engineer — production NLP, RAG, LLM agents & MLOps</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamid-jahani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hamidjahani999@gmail.com) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sheperd007&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sheperd007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheperd007&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sheperd007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sheperd007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/hamid-jahani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://hamid-resume.streamlit.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:hamidjahani999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sheperd007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jahanih987@gmail.com) 
+### 👨‍💻 About
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Data Scientist & ML Engineer with **5+ years** taking models from notebook to production — named-entity recognition, retrieval-augmented generation (RAG), LLM agents, real-time IoT anomaly detection, and large-scale MLOps. **M.S. in Statistics (Data Science)**, first in class, with published research in EEG deep learning. I build systems that move real metrics: revenue, retention, and time-to-production.
+
+- 🔭 Currently: mentoring at **Great Learning** & building a real-time **Industrial IoT predictive-maintenance** platform (SensesIQ).
+- 🌱 Focus: production LLM/RAG systems, MLOps & monitoring, time-series & anomaly detection.
+- 💬 Ask me about: shipping ML to production, RAG pipelines, statistical inference at scale.
+- 🌍 Open to **Data Scientist / ML Engineer** roles — remote or relocation (EU · Canada · Australia; visa sponsorship).
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it is |
+| --- | --- |
+| **[Interactive Portfolio + RAG Chatbot](https://github.com/sheperd007/streamlit-resume)** · [Live ▶](https://hamid-resume.streamlit.app/) | Multi-page Streamlit portfolio with a LlamaIndex + OpenAI chatbot that answers recruiter questions over my résumé. |
+| **[Job-Hunter](https://github.com/sheperd007/Job-hunter)** | Self-hosted agentic stack (n8n + FastAPI + Postgres) that finds visa-sponsored jobs, matches them to a résumé, and sends Telegram approvals — with an LLM budget guard and 63 tests. |
+| **[EEG Deep Learning for ADHD](https://github.com/sheperd007/Efficient-Deep-Learning-Approach-for-Diagnosis-of-ADHD-in-Children-Based-on-EEG-Signals)** | CNN / custom ResNet on EEG time-frequency images — **~98.6% subject-level accuracy** (published in *Cognitive Computation*, 2024). |
+| **[LLM Zoomcamp Capstone](https://github.com/sheperd007/LLM-zoomcamp)** | "IT Group Assistant" RAG app: FastAPI + OpenAI, Postgres logging, Grafana monitoring, Dockerized, with LLM-as-judge evaluation. |
+| **[Predictive Maintenance (Gas Industry)](https://github.com/sheperd007/Predictive-maintenance-in-the-gas-industry)** | Reliability analytics on ISO 14224 / PHMSA data — ARIMA/SARIMA forecasting, clustering, Poisson regression. |
+| **[Mathematical Statistics with R](https://github.com/sheperd007/Mathematical-Statistics-with-R)** | Code companion to my book — mathematical statistics & inference via Monte-Carlo simulation in R. |
+
+---
+
+### 📚 Publications & Writing
+
+- **H. Jahani**, A. A. Safaei. *EEG-based deep learning for childhood ADHD diagnosis.* **Cognitive Computation**, 2024.
+- A. A. Safaei, **H. Jahani**. Chapter in *Handbook of Neural Engineering*, Vol. 1, Elsevier, 2023.
+- **H. Jahani**. *Mathematical Statistics with R* (book). Allameh Tabataba'i University Press, 2020.
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<br/>
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20(LFCS)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheperd007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheperd007&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
+</p>
