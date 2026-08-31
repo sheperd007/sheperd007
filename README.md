@@ -25,12 +25,12 @@ Data Scientist & ML Engineer with **5+ years** taking models from notebook to pr
 
 | Project | What it is |
 | --- | --- |
-| **[Interactive Portfolio + RAG Chatbot](https://github.com/sheperd007/streamlit-resume)** · [Live ▶](https://hamid-resume.streamlit.app/) | Multi-page Streamlit portfolio with a LlamaIndex + OpenAI chatbot that answers recruiter questions over my résumé. |
-| **[EEG Deep Learning for ADHD](https://github.com/sheperd007/Efficient-Deep-Learning-Approach-for-Diagnosis-of-ADHD-in-Children-Based-on-EEG-Signals)** | CNN / custom ResNet on EEG time-frequency images — **~98.6% subject-level accuracy** across 121 children. Published in *Cognitive Computation* (2024). |
-| **[Mortality Calibration Under Shift](https://github.com/sheperd007/mortality-calibration-under-shift)** | Pre-registered audit of whether mortality prediction intervals hold nominal coverage across the COVID-19 structural break. Ten forecasting families × seven uncertainty mechanisms, 50 crossed cells. |
-| **[LLM Zoomcamp Capstone](https://github.com/sheperd007/LLM-zoomcamp)** | "IT Group Assistant" RAG app: FastAPI + OpenAI, Postgres logging, Grafana monitoring, Dockerized, with LLM-as-judge evaluation. |
-| **[MLOps Zoomcamp Course](https://github.com/sheperd007/MLOps-Zoomcamp-Course)** | End-to-end MLOps: experiment tracking, orchestration, deployment, and monitoring. |
-| **[Mathematical Statistics with R](https://github.com/sheperd007/Mathematical-Statistics-with-R)** | Code companion to my textbook — estimation, hypothesis testing, and distribution theory via Monte-Carlo simulation in R. |
+| **[Interactive Portfolio + RAG Chatbot](https://github.com/Hamid-Jahani/streamlit-resume)** · [Live ▶](https://hamid-resume.streamlit.app/) | Multi-page Streamlit portfolio with a LlamaIndex + OpenAI chatbot that answers recruiter questions over my résumé. |
+| **[EEG Deep Learning for ADHD](https://github.com/Hamid-Jahani/Efficient-Deep-Learning-Approach-for-Diagnosis-of-ADHD-in-Children-Based-on-EEG-Signals)** | CNN / custom ResNet on EEG time-frequency images — **~98.6% subject-level accuracy** across 121 children. Published in *Cognitive Computation* (2024). |
+| **[Mortality Calibration Under Shift](https://github.com/Hamid-Jahani/mortality-calibration-under-shift)** | Pre-registered audit of whether mortality prediction intervals hold nominal coverage across the COVID-19 structural break. Ten forecasting families × seven uncertainty mechanisms, 50 crossed cells. |
+| **[LLM Zoomcamp Capstone](https://github.com/Hamid-Jahani/LLM-zoomcamp)** | "IT Group Assistant" RAG app: FastAPI + OpenAI, Postgres logging, Grafana monitoring, Dockerized, with LLM-as-judge evaluation. |
+| **[MLOps Zoomcamp Course](https://github.com/Hamid-Jahani/MLOps-Zoomcamp-Course)** | End-to-end MLOps: experiment tracking, orchestration, deployment, and monitoring. |
+| **[Mathematical Statistics with R](https://github.com/Hamid-Jahani/Mathematical-Statistics-with-R)** | Code companion to my textbook — estimation, hypothesis testing, and distribution theory via Monte-Carlo simulation in R. |
 
 ---
 
@@ -90,6 +90,6 @@ Data Scientist & ML Engineer with **5+ years** taking models from notebook to pr
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sheperd007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheperd007&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamid-Jahani&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamid-Jahani&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs"/>
 </p>
